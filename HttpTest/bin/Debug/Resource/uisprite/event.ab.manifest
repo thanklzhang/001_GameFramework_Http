@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 981917865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d520f7cc3fee7b26e7ff13154d63b178
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/UISprite/Event/equipment_axe_00.png
+- Assets/Resources/UISprite/Event/equipment_bow_01.png
+- Assets/Resources/UISprite/Event/equipment_staff_01.png
+Dependencies: []

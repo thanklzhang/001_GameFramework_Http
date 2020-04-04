@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2876059327
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8f43173c7d9a9ddcadc186cbdf59f6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Texture/BG/shen.jpg
+- Assets/Texture/BG/0301350015577.jpg
+Dependencies: []

@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3060715534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c96646a7d4b1933b3457f23e971d683
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43da6ba5bb0cc8bb2bdfd9ff0cdf8d58
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/UIPrefab/LobbyUI.prefab
+Dependencies:
+- F:/KalGame/Kal.GameFrame/JekoClient/GameClient/JekoClient/Assets/StreamingAssets/uisprite/heroheadportrait.ab
+- F:/KalGame/Kal.GameFrame/JekoClient/GameClient/JekoClient/Assets/StreamingAssets/font.ab
+- F:/KalGame/Kal.GameFrame/JekoClient/GameClient/JekoClient/Assets/StreamingAssets/texture/bg.ab

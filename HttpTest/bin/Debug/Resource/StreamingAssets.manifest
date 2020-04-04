@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 170076595
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uiprefab/lobbyui.ab
+      Dependencies:
+        Dependency_0: uisprite/heroheadportrait.ab
+        Dependency_1: font.ab
+        Dependency_2: texture/bg.ab
+    Info_1:
+      Name: uiprefab/loginui.ab
+      Dependencies:
+        Dependency_0: font.ab
+        Dependency_1: texture/bg.ab
+    Info_2:
+      Name: uisprite/event.ab
+      Dependencies: {}
+    Info_3:
+      Name: uisprite/heroheadportrait.ab
+      Dependencies: {}
+    Info_4:
+      Name: font.ab
+      Dependencies: {}
+    Info_5:
+      Name: texture/bg.ab
+      Dependencies: {}
+    Info_6:
+      Name: texture/commonsprite0.ab
+      Dependencies: {}
+    Info_7:
+      Name: texture/lobbysprite.ab
+      Dependencies: {}
